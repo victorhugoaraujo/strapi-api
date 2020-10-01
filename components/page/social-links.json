@@ -11,7 +11,7 @@
       "enum": [
         "Github",
         "Twitter",
-        "Dribble",
+        "Dribbble",
         "LinkedIn",
         "Facebook"
       ],
@@ -20,10 +20,6 @@
     },
     "url": {
       "type": "string",
-      "required": true
-    },
-    "description": {
-      "type": "text",
       "required": true
     }
   }
