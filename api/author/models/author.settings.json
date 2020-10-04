@@ -10,7 +10,7 @@
   },
   "attributes": {
     "photo": {
-      "collection": "file",
+      "model": "file",
       "via": "related",
       "allowedTypes": [
         "images"
